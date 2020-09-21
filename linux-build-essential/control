@@ -1,0 +1,11 @@
+Package: gamnet-linux-build-essential
+Version: 1.2.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: build-essential, libboost-all-dev, libmysqlclient-dev, libcurl4-openssl-dev, libssl-dev, flex, cmake
+Maintainer: Gamnet Server Developers <kukuta@gmail.com>
+Description: Gamnet Server Devlopment base library install package
+ 1.0.0 : init
+ 1.0.1 : support 'Redis'
+Homepage: http://kukuta.tistory.com
